@@ -63,23 +63,9 @@ I’m intentionally building depth before chasing titles.
 
 ---
 
-## 📌 What You’ll Find Here
-
-This GitHub is a **learning log** and **sandbox**:
-- Automation experiments
-- CI/CD pipeline examples
-- Containerized services
-- Infrastructure-as-Code practice
-- Notes turned into runnable code
-
-Expect iteration, not perfection.
-
----
-
 ## 📫 Contact
 
 - Email: aidenparca@gmail.com
-- LinkedIn: (optional)
 - Location: Tehran / Remote-friendly
 
 ---
