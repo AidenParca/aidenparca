@@ -42,6 +42,9 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▱▱▱▱▱▱▱▱▱▱   0%  Helm
 </pre>
 
+</td>
+<td valign="top">
+
 <b>Cloud</b>
 <pre>
 ▰▰▱▱▱▱▱▱▱▱  25%  AWS
@@ -50,9 +53,6 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▰▰▰▰▰▰▰▱▱▱  75%  Networking
 </pre>
 
-</td>
-<td valign="top">
-   
 <b>Infrastructure as Code</b>
 <pre>
 ▱▱▱▱▱▱▱▱▱▱   0%  Terraform
