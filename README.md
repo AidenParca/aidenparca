@@ -32,7 +32,7 @@ DevOps • Backend Systems • Reproducible Infrastructure
    Competence: mt5, tensorflow, pytorch, flask
 
 ▰▰▰▰▰▱▱▱▱▱  50%  Go (tooling & backend)
-  Learning : Microservices , automated testing
+   Learning : Microservices , automated testing
 </pre>
 
 </td>
