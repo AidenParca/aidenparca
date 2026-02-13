@@ -25,6 +25,16 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▰▰▰▰▰▰▰▱▱▱  75%  Release / Versioning
 </pre>
 
+<b>Programming</b>
+<pre>
+▰▰▰▰▰▰▰▱▱▱  75%  Python
+   Proficient: scrapy, bs4, selenium, pandas
+   Competence: mt5, tensorflow, pytorch, flask
+
+▰▰▰▰▰▱▱▱▱▱  50%  Go (tooling & backend)
+  Learning : Microservices , automated testing
+</pre>
+
 </td>
 <td valign="top">
 
@@ -35,12 +45,6 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▱▱▱▱▱▱▱▱▱▱   0%  Helm
 </pre>
 
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
 <b>Cloud</b>
 <pre>
 ▰▰▱▱▱▱▱▱▱▱  25%  AWS
@@ -49,9 +53,6 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▰▰▰▰▰▰▰▱▱▱  75%  Networking
 </pre>
 
-</td>
-<td valign="top">
-
 <b>Infrastructure as Code</b>
 <pre>
 ▱▱▱▱▱▱▱▱▱▱   0%  Terraform
@@ -59,23 +60,12 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▰▰▰▰▰▱▱▱▱▱  50%  State / Remote state
 </pre>
 
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
 <b>Linux & Systems</b>
 <pre>
 ▰▰▰▰▰▰▰▰▰▱  90%  Linux fundamentals
-▰▰▰▰▰▱▱▱▱▱  50%  Debugging tools
+▰▰▰▰▰▱▱▱▱▱  50%  Debugging (logs, ss, tcpdump)
 ▰▰▰▰▰▱▱▱▱▱  50%  Bash automation
-▰▰▰▰▰▰▰▱▱▱  75%  Python automation
-▰▰▰▰▰▰▰▱▱▱  75%  Go tooling
 </pre>
-
-</td>
-<td valign="top">
 
 <b>Security</b>
 <pre>
