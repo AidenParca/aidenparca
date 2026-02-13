@@ -1,73 +1,106 @@
-# 👋 Hi, I'm Parsa
-
-I’m an engineer with a strong interest in **automation, infrastructure, and modern DevOps practices**.  
-My focus is on learning how systems are built, deployed, secured, and automated — not just how to write code.
-
-Right now, I’m deliberately moving deeper into the **automation side of engineering**:
-CI/CD, containers, cloud infrastructure, and reproducible environments.
-
----
-
-## 🔧 What I’m Learning & Building Around
-
-I’m actively developing hands-on skills in:
-
-- **CI/CD & Automation**
-  - Jenkins pipelines
-  - Automated testing & deployment workflows
-  - Git-based release processes
-
-- **Containers & Orchestration**
-  - Docker (images, networking, volumes)
-  - Kubernetes (pods, services, deployments, basic Helm usage)
-  - Understanding how production workloads actually fail
-
-- **Cloud Platforms**
-  - AWS & Azure fundamentals
-  - Compute, networking, storage, IAM concepts
-  - Cost-aware and security-aware design
-
-- **Infrastructure as Code (IaC)**
-  - Terraform for reproducible infrastructure
-  - Environment separation (dev / staging / prod)
-  - Declarative vs imperative infrastructure thinking
-
-- **Linux & Systems**
-  - Linux internals, services, networking
-  - Debugging from logs instead of guesswork
-  - Automation with Bash, Python, and Go
+<h1 align="center">Parsa</h1>
+<p align="center">
+Automation • Infrastructure • DevOps  
+<br/>
+Tehran / Remote • <a href="mailto:aidenparca@gmail.com">aidenparca@gmail.com</a>
+</p>
 
 ---
 
-## 🧠 How I Think About Engineering
-
-- Automation beats heroics  
-- Repeatability beats manual fixes  
-- Understanding *why systems break* matters more than shiny tools  
-- Security, networking, and infrastructure are not “someone else’s job”
-
-I’m intentionally building depth before chasing titles.
+### Focus
+DevOps • Backend Systems • Reproducible Infrastructure
 
 ---
 
-## 🛠 Tech Stack (Current & Growing)
+## Skills Dashboard
 
-- **Languages:** Python, Go, Bash  
-- **Containers:** Docker  
-- **Orchestration:** Kubernetes  
-- **CI/CD:** Jenkins  
-- **IaC:** Terraform  
-- **Cloud:** AWS, Azure  
-- **OS:** Linux  
-- **Security:** OWASP, CEH fundamentals  
+### CI/CD
+Jenkins  
+<progress value="25" max="100"></progress> 25%
 
----
+GitHub Actions  
+<progress value="50" max="100"></progress> 50%
 
-## 📫 Contact
+Automated Testing in Pipelines  
+<progress value="25" max="100"></progress> 25%
 
-- Email: aidenparca@gmail.com
-- Location: Tehran / Remote-friendly
+Release / Versioning Strategy  
+<progress value="75" max="100"></progress> 75%
 
 ---
 
-*Still learning. Still breaking things. Still automating them properly afterward.*
+### Containers & Orchestration
+Docker  
+<progress value="75" max="100"></progress> 75%
+
+Kubernetes  
+<progress value="50" max="100"></progress> 50%
+
+Helm  
+<progress value="0" max="100"></progress> 0%
+
+---
+
+### Cloud
+AWS  
+<progress value="25" max="100"></progress> 25%
+
+Azure  
+<progress value="0" max="100"></progress> 0%
+
+IAM  
+<progress value="50" max="100"></progress> 50%
+
+Networking (VPC/VNet, routing, subnets)  
+<progress value="75" max="100"></progress> 75%
+
+---
+
+### Infrastructure as Code
+Terraform  
+<progress value="0" max="100"></progress> 0%
+
+Environment Separation (dev/staging/prod)  
+<progress value="75" max="100"></progress> 75%
+
+State / Remote State Concepts  
+<progress value="50" max="100"></progress> 50%
+
+---
+
+### Linux & Systems
+Linux Fundamentals  
+<progress value="90" max="100"></progress> 90%
+
+System Debugging (logs, ss, tcpdump)  
+<progress value="50" max="100"></progress> 50%
+
+Bash Automation  
+<progress value="50" max="100"></progress> 50%
+
+Python Automation  
+<progress value="75" max="100"></progress> 75%
+
+Go (tooling & backend utilities)  
+<progress value="75" max="100"></progress> 75%
+
+---
+
+### Security
+OWASP  
+<progress value="60" max="100"></progress> 75%
+
+CEH   
+<progress value="80" max="100"></progress> 75%
+
+---
+
+## Currently Building
+🚧 First production-style DevOps project coming soon  
+Goal: end-to-end automated deployment (CI → Docker → Cloud → IaC)
+
+---
+
+<p align="center">
+<sub>Automate first. Debug properly. Ship responsibly.</sub>
+</p>
