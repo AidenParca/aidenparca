@@ -35,9 +35,6 @@ DevOps • Backend Systems • Reproducible Infrastructure
    Learning : Microservices , automated testing
 </pre>
 
-</td>
-<td valign="top">
-
 <b>Containers & Orchestration</b>
 <pre>
 ▰▰▰▰▰▰▰▱▱▱  75%  Docker
@@ -53,6 +50,9 @@ DevOps • Backend Systems • Reproducible Infrastructure
 ▰▰▰▰▰▰▰▱▱▱  75%  Networking
 </pre>
 
+</td>
+<td valign="top">
+   
 <b>Infrastructure as Code</b>
 <pre>
 ▱▱▱▱▱▱▱▱▱▱   0%  Terraform
