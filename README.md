@@ -1,7 +1,7 @@
 <h1 align="center">Parsa</h1>
 <p align="center">
-Automation • Infrastructure • DevOps<br/>
-Tehran / Remote • <a href="mailto:aidenparca@gmail.com">aidenparca@gmail.com</a>
+Automation • Infrastructure • DevOps  
+Tehran / Remote • aidenparca@gmail.com
 </p>
 
 ---
@@ -13,42 +13,49 @@ DevOps • Backend Systems • Reproducible Infrastructure
 
 ## Skills Dashboard
 
-### CI/CD
-- Jenkins                ▰▰▱▱▱▱▱▱▱▱  25%
-- GitHub Actions         ▰▰▰▰▰▱▱▱▱▱  50%
-- Testing in pipelines   ▰▰▱▱▱▱▱▱▱▱  25%
-- Release/versioning     ▰▰▰▰▰▰▰▱▱▱  75%
+| CI/CD | Containers & Orchestration |
+|-------|----------------------------|
+| ```                                      |
+| ▰▰▱▱▱▱▱▱▱▱  25%  Jenkins                |
+| ▰▰▰▰▰▱▱▱▱▱  50%  GitHub Actions         |
+| ▰▰▱▱▱▱▱▱▱▱  25%  Testing in pipelines   |
+| ▰▰▰▰▰▰▰▱▱▱  75%  Release / Versioning   |
+| ``` | ```                                 |
+| ▰▰▰▰▰▰▰▱▱▱  75%  Docker                 |
+| ▰▰▰▰▰▱▱▱▱▱  50%  Kubernetes             |
+| ▱▱▱▱▱▱▱▱▱▱   0%  Helm                   |
+| ``` |
 
-### Containers & Orchestration
-- Docker                 ▰▰▰▰▰▰▰▱▱▱  75%
-- Kubernetes             ▰▰▰▰▰▱▱▱▱▱  50%
-- Helm                   ▱▱▱▱▱▱▱▱▱▱   0%
+| Cloud | Infrastructure as Code |
+|-------|------------------------|
+| ```                                   |
+| ▰▰▱▱▱▱▱▱▱▱  25%  AWS                  |
+| ▱▱▱▱▱▱▱▱▱▱   0%  Azure                |
+| ▰▰▰▰▰▱▱▱▱▱  50%  IAM                  |
+| ▰▰▰▰▰▰▰▱▱▱  75%  Networking           |
+| ``` | ```                              |
+| ▱▱▱▱▱▱▱▱▱▱   0%  Terraform             |
+| ▰▰▰▰▰▰▰▱▱▱  75%  Env separation        |
+| ▰▰▰▰▰▱▱▱▱▱  50%  State / Remote state  |
+| ``` |
 
-### Cloud
-- AWS                    ▰▰▱▱▱▱▱▱▱▱  25%
-- Azure                  ▱▱▱▱▱▱▱▱▱▱   0%
-- IAM                    ▰▰▰▰▰▱▱▱▱▱  50%
-- Networking             ▰▰▰▰▰▰▰▱▱▱  75%
-
-### Infrastructure as Code
-- Terraform              ▱▱▱▱▱▱▱▱▱▱   0%
-- Env separation         ▰▰▰▰▰▰▰▱▱▱  75%
-- State/remote state     ▰▰▰▰▰▱▱▱▱▱  50%
-
-### Linux & Systems
-- Linux fundamentals     ▰▰▰▰▰▰▰▰▰▱  90%
-- Debugging/tools        ▰▰▰▰▰▱▱▱▱▱  50%
-- Bash automation        ▰▰▰▰▰▱▱▱▱▱  50%
-- Python automation      ▰▰▰▰▰▰▰▱▱▱  75%
-- Go tooling             ▰▰▰▰▰▰▰▱▱▱  75%
-
-### Security
-- OWASP                  ▰▰▰▰▰▰▰▱▱▱  75%
-- CEH fundamentals       ▰▰▰▰▰▰▰▱▱▱  75%
+| Linux & Systems | Security |
+|------------------|----------|
+| ```                                         |
+| ▰▰▰▰▰▰▰▰▰▱  90%  Linux fundamentals        |
+| ▰▰▰▰▰▱▱▱▱▱  50%  Debugging tools           |
+| ▰▰▰▰▰▱▱▱▱▱  50%  Bash automation           |
+| ▰▰▰▰▰▰▰▱▱▱  75%  Python automation         |
+| ▰▰▰▰▰▰▰▱▱▱  75%  Go tooling                |
+| ``` | ```                                    |
+| ▰▰▰▰▰▰▰▱▱▱  75%  OWASP                     |
+| ▰▰▰▰▰▰▰▱▱▱  75%  CEH fundamentals           |
+| ``` |
 
 ---
 
-## Currently Building
-🚧 First production-style DevOps repo shipping soon (CI → Docker → Cloud → IaC)
+### Currently Building
+🚧 End-to-end automated deployment system  
+(CI → Docker → Cloud → IaC)
 
 <p align="center"><sub>Automate first. Debug properly. Ship responsibly.</sub></p>
